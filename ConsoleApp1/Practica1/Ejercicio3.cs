@@ -20,7 +20,7 @@ namespace ConsoleApp1
             else
             {
                 extras = horas - 40;
-                Console.WriteLine("Salario: " + ((horas * 50) + (extras * 100)));
+                Console.WriteLine("Salario: " + ((40 * 50) + (extras * 100)));
             }
             Console.ReadLine();
         }

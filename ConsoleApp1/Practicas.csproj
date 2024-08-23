@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleApp1.Ejercicio4</StartupObject>
+    <StartupObject>ConsoleApp1.Practica2.Ejercicio8</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,10 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Ejercicio2.cs" />
-    <Compile Include="Ejercicio1.cs" />
-    <Compile Include="Ejercicio3.cs" />
-    <Compile Include="Ejercicio4.cs" />
+    <Compile Include="Practica1\Ejercicio2.cs" />
+    <Compile Include="Practica1\Ejercicio1.cs" />
+    <Compile Include="Practica1\Ejercicio3.cs" />
+    <Compile Include="Practica1\Ejercicio4.cs" />
+    <Compile Include="Practica2\Ejercicio1.cs" />
+    <Compile Include="Practica2\Ejercicio2.cs" />
+    <Compile Include="Practica2\Ejercicio3.cs" />
+    <Compile Include="Practica2\Ejercicio4.cs" />
+    <Compile Include="Practica2\Ejercicio5.cs" />
+    <Compile Include="Practica2\Ejercicio6.cs" />
+    <Compile Include="Practica2\Ejercicio7.cs" />
+    <Compile Include="Practica2\Ejercicio8.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
