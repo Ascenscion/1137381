@@ -11,13 +11,13 @@ namespace ConsoleApp1.Practica2
         static void Main(string[] args)
         { 
             int edad;
-            Console.WriteLine("Ingrese su edad: ");
+            Console.WriteLine("Ingrese su anio: ");
             edad = int.Parse(Console.ReadLine());
-            if (edad >= 18)
+            if (edad <= 2006)
             {
                 Console.WriteLine("Usuario es mayor de edad.");
             }
-            else if (edad <= 0)
+            else if (edad > 2024)
             {
                 Console.WriteLine("Valor invalido");
             }

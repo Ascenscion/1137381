@@ -1,32 +1,52 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\charl\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\charl\\dev\\uabc\\1137381\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61BE40AB-FE37-4CC0-96D5-ECFDAB51F98E}|Practica1.csproj|c:\\users\\charl\\onedrive\\desktop\\uabc\\5to_semestre\\topicos_programacion\\lab\\consoleapp1\\ejercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61BE40AB-FE37-4CC0-96D5-ECFDAB51F98E}|Practica1.csproj|solutionrelative:ejercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Practicas||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Practica1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{61BE40AB-FE37-4CC0-96D5-ECFDAB51F98E}|Practicas.csproj|c:\\users\\charl\\dev\\uabc\\1137381\\consoleapp1\\practica3\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE40AB-FE37-4CC0-96D5-ECFDAB51F98E}|Practicas.csproj|solutionrelative:practica3\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61BE40AB-FE37-4CC0-96D5-ECFDAB51F98E}|Practica1.csproj|C:\\Users\\charl\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61BE40AB-FE37-4CC0-96D5-ECFDAB51F98E}|Practica1.csproj|solutionrelative:ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61BE40AB-FE37-4CC0-96D5-ECFDAB51F98E}|Practicas.csproj|c:\\users\\charl\\dev\\uabc\\1137381\\consoleapp1\\practica3\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE40AB-FE37-4CC0-96D5-ECFDAB51F98E}|Practicas.csproj|solutionrelative:practica3\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61BE40AB-FE37-4CC0-96D5-ECFDAB51F98E}|Practica1.csproj|c:\\users\\charl\\onedrive\\desktop\\uabc\\5to_semestre\\topicos_programacion\\lab\\consoleapp1\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61BE40AB-FE37-4CC0-96D5-ECFDAB51F98E}|Practica1.csproj|solutionrelative:ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61BE40AB-FE37-4CC0-96D5-ECFDAB51F98E}|Practicas.csproj|c:\\users\\charl\\dev\\uabc\\1137381\\consoleapp1\\practica3\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE40AB-FE37-4CC0-96D5-ECFDAB51F98E}|Practicas.csproj|solutionrelative:practica3\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61BE40AB-FE37-4CC0-96D5-ECFDAB51F98E}|ConsoleApp1.csproj|C:\\Users\\charl\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61BE40AB-FE37-4CC0-96D5-ECFDAB51F98E}|ConsoleApp1.csproj|solutionrelative:ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61BE40AB-FE37-4CC0-96D5-ECFDAB51F98E}|Practicas.csproj|c:\\users\\charl\\dev\\uabc\\1137381\\consoleapp1\\tarea2\\t2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE40AB-FE37-4CC0-96D5-ECFDAB51F98E}|Practicas.csproj|solutionrelative:tarea2\\t2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61BE40AB-FE37-4CC0-96D5-ECFDAB51F98E}|ConsoleApp1.csproj|C:\\Users\\charl\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61BE40AB-FE37-4CC0-96D5-ECFDAB51F98E}|ConsoleApp1.csproj|solutionrelative:ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61BE40AB-FE37-4CC0-96D5-ECFDAB51F98E}|Practicas.csproj|C:\\Users\\charl\\dev\\uabc\\1137381\\ConsoleApp1\\practica2\\ejercicio7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE40AB-FE37-4CC0-96D5-ECFDAB51F98E}|Practicas.csproj|solutionrelative:practica2\\ejercicio7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61BE40AB-FE37-4CC0-96D5-ECFDAB51F98E}|Practica1.csproj|c:\\users\\charl\\onedrive\\desktop\\uabc\\5to_semestre\\topicos_programacion\\lab\\consoleapp1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{61BE40AB-FE37-4CC0-96D5-ECFDAB51F98E}|Practicas.csproj|C:\\Users\\charl\\dev\\uabc\\1137381\\ConsoleApp1\\practica2\\ejercicio8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE40AB-FE37-4CC0-96D5-ECFDAB51F98E}|Practicas.csproj|solutionrelative:practica2\\ejercicio8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE40AB-FE37-4CC0-96D5-ECFDAB51F98E}|Practicas.csproj|C:\\Users\\charl\\dev\\uabc\\1137381\\ConsoleApp1\\practica2\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BE40AB-FE37-4CC0-96D5-ECFDAB51F98E}|Practicas.csproj|solutionrelative:practica2\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\charl\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\Ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\charl\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\Ejercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\charl\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\Ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\charl\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\Ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BE40AB-FE37-4CC0-96D5-ECFDAB51F98E}|Practicas.csproj|c:\\users\\charl\\dev\\uabc\\1137381\\consoleapp1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,79 +56,150 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Ejercicio1.cs",
-              "DocumentMoniker": "C:\\Users\\charl\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\Ejercicio1.cs",
-              "RelativeDocumentMoniker": "Ejercicio1.cs",
-              "ToolTip": "C:\\Users\\charl\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\Ejercicio1.cs",
-              "RelativeToolTip": "Ejercicio1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Ejercicio3.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\ConsoleApp1\\Practica3\\Ejercicio3.cs",
+              "RelativeDocumentMoniker": "Practica3\\Ejercicio3.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\ConsoleApp1\\Practica3\\Ejercicio3.cs",
+              "RelativeToolTip": "Practica3\\Ejercicio3.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wB0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T01:22:43.019Z",
+              "WhenOpened": "2024-08-29T01:30:54.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ejercicio2.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\ConsoleApp1\\Practica3\\Ejercicio2.cs",
+              "RelativeDocumentMoniker": "Practica3\\Ejercicio2.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\ConsoleApp1\\Practica3\\Ejercicio2.cs",
+              "RelativeToolTip": "Practica3\\Ejercicio2.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T01:21:07.717Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Practica1",
-              "DocumentMoniker": "C:\\Users\\charl\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\Practica1.csproj",
-              "RelativeDocumentMoniker": "Practica1.csproj",
-              "ToolTip": "C:\\Users\\charl\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\Practica1.csproj",
-              "RelativeToolTip": "Practica1.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-21T01:11:00.226Z",
+              "Title": "Ejercicio1.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\ConsoleApp1\\Practica3\\Ejercicio1.cs",
+              "RelativeDocumentMoniker": "Practica3\\Ejercicio1.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\ConsoleApp1\\Practica3\\Ejercicio1.cs",
+              "RelativeToolTip": "Practica3\\Ejercicio1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T01:10:08.537Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Ejercicio4.cs",
-              "DocumentMoniker": "C:\\Users\\charl\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\Ejercicio4.cs",
-              "RelativeDocumentMoniker": "Ejercicio4.cs",
-              "ToolTip": "C:\\Users\\charl\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\Ejercicio4.cs",
-              "RelativeToolTip": "Ejercicio4.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T23:24:12.371Z",
+              "Title": "Practicas",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\ConsoleApp1\\Practicas.csproj",
+              "RelativeDocumentMoniker": "Practicas.csproj",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\ConsoleApp1\\Practicas.csproj*",
+              "RelativeToolTip": "Practicas.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-28T01:14:58.652Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ejercicio3.cs",
-              "DocumentMoniker": "C:\\Users\\charl\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\Ejercicio3.cs",
-              "RelativeDocumentMoniker": "Ejercicio3.cs",
-              "ToolTip": "C:\\Users\\charl\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\Ejercicio3.cs",
-              "RelativeToolTip": "Ejercicio3.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "T2.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\ConsoleApp1\\Tarea2\\T2.cs",
+              "RelativeDocumentMoniker": "Tarea2\\T2.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\ConsoleApp1\\Tarea2\\T2.cs",
+              "RelativeToolTip": "Tarea2\\T2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T23:17:29.155Z",
+              "WhenOpened": "2024-08-28T03:03:03.885Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Ejercicio2.cs",
-              "DocumentMoniker": "C:\\Users\\charl\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\Ejercicio2.cs",
-              "RelativeDocumentMoniker": "Ejercicio2.cs",
-              "ToolTip": "C:\\Users\\charl\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\Ejercicio2.cs",
-              "RelativeToolTip": "Ejercicio2.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "Title": "Ejercicio7.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\ConsoleApp1\\Practica2\\Ejercicio7.cs",
+              "RelativeDocumentMoniker": "Practica2\\Ejercicio7.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\ConsoleApp1\\Practica2\\Ejercicio7.cs",
+              "RelativeToolTip": "Practica2\\Ejercicio7.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAEwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T16:56:17.614Z"
+              "WhenOpened": "2024-08-28T01:33:01.124Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "Ejercicio8.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\ConsoleApp1\\Practica2\\Ejercicio8.cs",
+              "RelativeDocumentMoniker": "Practica2\\Ejercicio8.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\ConsoleApp1\\Practica2\\Ejercicio8.cs",
+              "RelativeToolTip": "Practica2\\Ejercicio8.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:31:39.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ejercicio1.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\ConsoleApp1\\Practica2\\Ejercicio1.cs",
+              "RelativeDocumentMoniker": "Practica2\\Ejercicio1.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\ConsoleApp1\\Practica2\\Ejercicio1.cs",
+              "RelativeToolTip": "Practica2\\Ejercicio1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:04:07.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Ejercicio1.cs",
               "DocumentMoniker": "C:\\Users\\charl\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\Ejercicio1.cs",
-              "RelativeDocumentMoniker": "Ejercicio1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\Ejercicio1.cs",
               "ToolTip": "C:\\Users\\charl\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\Ejercicio1.cs",
-              "RelativeToolTip": "Ejercicio1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\Ejercicio1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T01:22:43.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ejercicio4.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\Ejercicio4.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\Ejercicio4.cs",
+              "ToolTip": "C:\\Users\\charl\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\Ejercicio4.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\Ejercicio4.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T23:24:12.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ejercicio3.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\Ejercicio3.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\Ejercicio3.cs",
+              "ToolTip": "C:\\Users\\charl\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\Ejercicio3.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\Ejercicio3.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T23:17:29.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ejercicio1.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\Ejercicio1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\Ejercicio1.cs",
+              "ToolTip": "C:\\Users\\charl\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\Ejercicio1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Desktop\\UABC\\5to_Semestre\\Topicos_Programacion\\Lab\\ConsoleApp1\\Ejercicio1.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T16:53:46.397Z"
