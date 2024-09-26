@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica5v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Practica5v2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A7587A-FA98-4867-9D93-716F4CC35C93}|Practica5v2.csproj|c:\\users\\charl\\dev\\uabc\\1137381\\practica5v2\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A7587A-FA98-4867-9D93-716F4CC35C93}|Practica5v2.csproj|solutionrelative:ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A7587A-FA98-4867-9D93-716F4CC35C93}|Practica5v2.csproj|c:\\users\\charl\\dev\\uabc\\1137381\\practica5v2\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A7587A-FA98-4867-9D93-716F4CC35C93}|Practica5v2.csproj|solutionrelative:ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A7587A-FA98-4867-9D93-716F4CC35C93}|Practica5v2.csproj|c:\\users\\charl\\dev\\uabc\\1137381\\practica5v2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06A7587A-FA98-4867-9D93-716F4CC35C93}|Practica5v2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A7587A-FA98-4867-9D93-716F4CC35C93}|Practica5v2.csproj|c:\\users\\charl\\dev\\uabc\\1137381\\practica5v2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A7587A-FA98-4867-9D93-716F4CC35C93}|Practica5v2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A7587A-FA98-4867-9D93-716F4CC35C93}|Practica5v2.csproj|c:\\users\\charl\\dev\\uabc\\1137381\\practica5v2\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio2.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica5v2\\Ejercicio2.cs",
+              "RelativeDocumentMoniker": "Ejercicio2.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica5v2\\Ejercicio2.cs",
+              "RelativeToolTip": "Ejercicio2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T23:54:51.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Practica5v2",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica5v2\\Practica5v2.csproj",
+              "RelativeDocumentMoniker": "Practica5v2.csproj",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica5v2\\Practica5v2.csproj*",
+              "RelativeToolTip": "Practica5v2.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-17T23:52:20.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ejercicio1.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica5v2\\Ejercicio1.cs",
+              "RelativeDocumentMoniker": "Ejercicio1.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica5v2\\Ejercicio1.cs",
+              "RelativeToolTip": "Ejercicio1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T23:51:39.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica5v2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica5v2\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwCYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T23:41:14.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica5v2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica5v2\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T23:38:58.441Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

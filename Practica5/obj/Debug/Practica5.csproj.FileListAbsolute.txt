@@ -1,0 +1,11 @@
+C:\Users\charl\dev\uabc\1137381\Practica5\bin\Debug\Practica5.exe.config
+C:\Users\charl\dev\uabc\1137381\Practica5\bin\Debug\Practica5.exe
+C:\Users\charl\dev\uabc\1137381\Practica5\bin\Debug\Practica5.pdb
+C:\Users\charl\dev\uabc\1137381\Practica5\obj\Debug\Practica5.csproj.AssemblyReference.cache
+C:\Users\charl\dev\uabc\1137381\Practica5\obj\Debug\Practica5.Form1.resources
+C:\Users\charl\dev\uabc\1137381\Practica5\obj\Debug\Practica5.Properties.Resources.resources
+C:\Users\charl\dev\uabc\1137381\Practica5\obj\Debug\Practica5.csproj.GenerateResource.cache
+C:\Users\charl\dev\uabc\1137381\Practica5\obj\Debug\Practica5.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\uabc\1137381\Practica5\obj\Debug\Practica5.exe
+C:\Users\charl\dev\uabc\1137381\Practica5\obj\Debug\Practica5.pdb
+C:\Users\charl\dev\uabc\1137381\Practica5\obj\Debug\Practica5.Form2.resources

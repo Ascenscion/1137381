@@ -1,0 +1,14 @@
+C:\Users\charl\dev\uabc\1137381\Tarea 4\bin\Debug\resources\boo.wav
+C:\Users\charl\dev\uabc\1137381\Tarea 4\bin\Debug\resources\cat.wav
+C:\Users\charl\dev\uabc\1137381\Tarea 4\bin\Debug\resources\drums.wav
+C:\Users\charl\dev\uabc\1137381\Tarea 4\bin\Debug\resources\laugh.wav
+C:\Users\charl\dev\uabc\1137381\Tarea 4\bin\Debug\Tarea 4.exe.config
+C:\Users\charl\dev\uabc\1137381\Tarea 4\bin\Debug\Tarea 4.exe
+C:\Users\charl\dev\uabc\1137381\Tarea 4\bin\Debug\Tarea 4.pdb
+C:\Users\charl\dev\uabc\1137381\Tarea 4\obj\Debug\Tarea 4.csproj.AssemblyReference.cache
+C:\Users\charl\dev\uabc\1137381\Tarea 4\obj\Debug\Tarea_4.Form1.resources
+C:\Users\charl\dev\uabc\1137381\Tarea 4\obj\Debug\Tarea_4.Properties.Resources.resources
+C:\Users\charl\dev\uabc\1137381\Tarea 4\obj\Debug\Tarea 4.csproj.GenerateResource.cache
+C:\Users\charl\dev\uabc\1137381\Tarea 4\obj\Debug\Tarea 4.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\uabc\1137381\Tarea 4\obj\Debug\Tarea 4.exe
+C:\Users\charl\dev\uabc\1137381\Tarea 4\obj\Debug\Tarea 4.pdb
