@@ -1,0 +1,13 @@
+C:\Users\charl\dev\uabc\1137381\jsonA\bin\Debug\jsonA.exe.config
+C:\Users\charl\dev\uabc\1137381\jsonA\bin\Debug\jsonA.exe
+C:\Users\charl\dev\uabc\1137381\jsonA\bin\Debug\jsonA.pdb
+C:\Users\charl\dev\uabc\1137381\jsonA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\charl\dev\uabc\1137381\jsonA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\charl\dev\uabc\1137381\jsonA\obj\Debug\jsonA.csproj.AssemblyReference.cache
+C:\Users\charl\dev\uabc\1137381\jsonA\obj\Debug\jsonA.Form1.resources
+C:\Users\charl\dev\uabc\1137381\jsonA\obj\Debug\jsonA.Properties.Resources.resources
+C:\Users\charl\dev\uabc\1137381\jsonA\obj\Debug\jsonA.csproj.GenerateResource.cache
+C:\Users\charl\dev\uabc\1137381\jsonA\obj\Debug\jsonA.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\uabc\1137381\jsonA\obj\Debug\jsonA.csproj.Up2Date
+C:\Users\charl\dev\uabc\1137381\jsonA\obj\Debug\jsonA.exe
+C:\Users\charl\dev\uabc\1137381\jsonA\obj\Debug\jsonA.pdb
