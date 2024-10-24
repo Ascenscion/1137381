@@ -1,0 +1,10 @@
+C:\Users\charl\dev\uabc\1137381\Practica8v2\bin\Debug\Practica8v2.exe.config
+C:\Users\charl\dev\uabc\1137381\Practica8v2\bin\Debug\Practica8v2.exe
+C:\Users\charl\dev\uabc\1137381\Practica8v2\bin\Debug\Practica8v2.pdb
+C:\Users\charl\dev\uabc\1137381\Practica8v2\obj\Debug\Practica8v2.csproj.AssemblyReference.cache
+C:\Users\charl\dev\uabc\1137381\Practica8v2\obj\Debug\Practica8v2.Form1.resources
+C:\Users\charl\dev\uabc\1137381\Practica8v2\obj\Debug\Practica8v2.Properties.Resources.resources
+C:\Users\charl\dev\uabc\1137381\Practica8v2\obj\Debug\Practica8v2.csproj.GenerateResource.cache
+C:\Users\charl\dev\uabc\1137381\Practica8v2\obj\Debug\Practica8v2.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\uabc\1137381\Practica8v2\obj\Debug\Practica8v2.exe
+C:\Users\charl\dev\uabc\1137381\Practica8v2\obj\Debug\Practica8v2.pdb
