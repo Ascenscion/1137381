@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\charl\\dev\\uabc\\1137381\\Pokedex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B31C7009-0A41-4A9C-B50E-0CB14536DBC6}|Pokedex.csproj|c:\\users\\charl\\dev\\uabc\\1137381\\pokedex\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B31C7009-0A41-4A9C-B50E-0CB14536DBC6}|Pokedex.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31C7009-0A41-4A9C-B50E-0CB14536DBC6}|Pokedex.csproj|C:\\Users\\charl\\dev\\uabc\\1137381\\Pokedex\\pokemondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31C7009-0A41-4A9C-B50E-0CB14536DBC6}|Pokedex.csproj|solutionrelative:pokemondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31C7009-0A41-4A9C-B50E-0CB14536DBC6}|Pokedex.csproj|C:\\Users\\charl\\dev\\uabc\\1137381\\Pokedex\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31C7009-0A41-4A9C-B50E-0CB14536DBC6}|Pokedex.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31C7009-0A41-4A9C-B50E-0CB14536DBC6}|Pokedex.csproj|C:\\Users\\charl\\dev\\uabc\\1137381\\Pokedex\\typedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31C7009-0A41-4A9C-B50E-0CB14536DBC6}|Pokedex.csproj|solutionrelative:typedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31C7009-0A41-4A9C-B50E-0CB14536DBC6}|Pokedex.csproj|C:\\Users\\charl\\dev\\uabc\\1137381\\Pokedex\\spritedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31C7009-0A41-4A9C-B50E-0CB14536DBC6}|Pokedex.csproj|solutionrelative:spritedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31C7009-0A41-4A9C-B50E-0CB14536DBC6}|Pokedex.csproj|C:\\Users\\charl\\dev\\uabc\\1137381\\Pokedex\\typedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31C7009-0A41-4A9C-B50E-0CB14536DBC6}|Pokedex.csproj|solutionrelative:typedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\Pokedex\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\Pokedex\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:45:14.807Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PokemonData.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\Pokedex\\PokemonData.cs",
+              "RelativeDocumentMoniker": "PokemonData.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\Pokedex\\PokemonData.cs",
+              "RelativeToolTip": "PokemonData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:56:30.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TypeData.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\Pokedex\\TypeData.cs",
+              "RelativeDocumentMoniker": "TypeData.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\Pokedex\\TypeData.cs",
+              "RelativeToolTip": "TypeData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:55:42.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpriteData.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\Pokedex\\SpriteData.cs",
+              "RelativeDocumentMoniker": "SpriteData.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\Pokedex\\SpriteData.cs",
+              "RelativeToolTip": "SpriteData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:54:02.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TypeDetail.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\Pokedex\\TypeDetail.cs",
+              "RelativeDocumentMoniker": "TypeDetail.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\Pokedex\\TypeDetail.cs",
+              "RelativeToolTip": "TypeDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:53:22.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\Pokedex\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\Pokedex\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:37:58.081Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

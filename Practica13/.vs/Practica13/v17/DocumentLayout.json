@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B90AAFF-D8A9-49ED-8D23-8949E4CA7974}|Negocios\\Negocios.csproj|c:\\users\\charl\\dev\\uabc\\1137381\\practica13\\negocios\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B90AAFF-D8A9-49ED-8D23-8949E4CA7974}|Negocios\\Negocios.csproj|solutionrelative:negocios\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027AC00E-DE79-4E0B-9731-F5817215605B}|Presentacion\\Presentacion.csproj|c:\\users\\charl\\dev\\uabc\\1137381\\practica13\\presentacion\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027AC00E-DE79-4E0B-9731-F5817215605B}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027AC00E-DE79-4E0B-9731-F5817215605B}|Presentacion\\Presentacion.csproj|c:\\users\\charl\\dev\\uabc\\1137381\\practica13\\presentacion\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{027AC00E-DE79-4E0B-9731-F5817215605B}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027AC00E-DE79-4E0B-9731-F5817215605B}|Presentacion\\Presentacion.csproj|c:\\users\\charl\\dev\\uabc\\1137381\\practica13\\presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027AC00E-DE79-4E0B-9731-F5817215605B}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404842B7-94FD-487D-B386-6CB657A176B1}|Persistencia\\Persistencia.csproj|c:\\users\\charl\\dev\\uabc\\1137381\\practica13\\persistencia\\productodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404842B7-94FD-487D-B386-6CB657A176B1}|Persistencia\\Persistencia.csproj|solutionrelative:persistencia\\productodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027AC00E-DE79-4E0B-9731-F5817215605B}|Presentacion\\Presentacion.csproj|C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{027AC00E-DE79-4E0B-9731-F5817215605B}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B90AAFF-D8A9-49ED-8D23-8949E4CA7974}|Negocios\\Negocios.csproj|c:\\users\\charl\\dev\\uabc\\1137381\\practica13\\negocios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B90AAFF-D8A9-49ED-8D23-8949E4CA7974}|Negocios\\Negocios.csproj|solutionrelative:negocios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404842B7-94FD-487D-B386-6CB657A176B1}|Persistencia\\Persistencia.csproj|c:\\users\\charl\\dev\\uabc\\1137381\\practica13\\persistencia\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404842B7-94FD-487D-B386-6CB657A176B1}|Persistencia\\Persistencia.csproj|solutionrelative:persistencia\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027AC00E-DE79-4E0B-9731-F5817215605B}|Presentacion\\Presentacion.csproj|c:\\users\\charl\\dev\\uabc\\1137381\\practica13\\presentacion\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027AC00E-DE79-4E0B-9731-F5817215605B}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027AC00E-DE79-4E0B-9731-F5817215605B}|Presentacion\\Presentacion.csproj|c:\\users\\charl\\dev\\uabc\\1137381\\practica13\\presentacion\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027AC00E-DE79-4E0B-9731-F5817215605B}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027AC00E-DE79-4E0B-9731-F5817215605B}|Presentacion\\Presentacion.csproj|c:\\users\\charl\\dev\\uabc\\1137381\\practica13\\presentacion\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{027AC00E-DE79-4E0B-9731-F5817215605B}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027AC00E-DE79-4E0B-9731-F5817215605B}|Presentacion\\Presentacion.csproj|c:\\users\\charl\\dev\\uabc\\1137381\\practica13\\presentacion\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{027AC00E-DE79-4E0B-9731-F5817215605B}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404842B7-94FD-487D-B386-6CB657A176B1}|Persistencia\\Persistencia.csproj|c:\\users\\charl\\dev\\uabc\\1137381\\practica13\\persistencia\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404842B7-94FD-487D-B386-6CB657A176B1}|Persistencia\\Persistencia.csproj|solutionrelative:persistencia\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B90AAFF-D8A9-49ED-8D23-8949E4CA7974}|Negocios\\Negocios.csproj|c:\\users\\charl\\dev\\uabc\\1137381\\practica13\\negocios\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B90AAFF-D8A9-49ED-8D23-8949E4CA7974}|Negocios\\Negocios.csproj|solutionrelative:negocios\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027AC00E-DE79-4E0B-9731-F5817215605B}|Presentacion\\Presentacion.csproj|c:\\users\\charl\\dev\\uabc\\1137381\\practica13\\presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027AC00E-DE79-4E0B-9731-F5817215605B}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\Presentacion\\Form4.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Form4.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\Presentacion\\Form4.cs",
+              "RelativeToolTip": "Presentacion\\Form4.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAlwB4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:45:30.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\Presentacion\\Form4.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Form4.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\Presentacion\\Form4.cs [Design]",
+              "RelativeToolTip": "Presentacion\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:44:14.589Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\Presentacion\\Form3.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Form3.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\Presentacion\\Form3.cs",
+              "RelativeToolTip": "Presentacion\\Form3.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:11:41.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\Presentacion\\Form3.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Form3.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\Presentacion\\Form3.cs [Design]",
+              "RelativeToolTip": "Presentacion\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:11:03.033Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioDAO.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\Persistencia\\UsuarioDAO.cs",
+              "RelativeDocumentMoniker": "Persistencia\\UsuarioDAO.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\Persistencia\\UsuarioDAO.cs",
+              "RelativeToolTip": "Persistencia\\UsuarioDAO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA8wBgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:43:21.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\Negocios\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Negocios\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\Negocios\\UsuarioService.cs",
+              "RelativeToolTip": "Negocios\\UsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:42:47.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\Negocios\\ProductoService.cs",
+              "RelativeDocumentMoniker": "Negocios\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\Negocios\\ProductoService.cs",
+              "RelativeToolTip": "Negocios\\ProductoService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:39:21.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\Presentacion\\Form2.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Form2.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\Presentacion\\Form2.cs",
+              "RelativeToolTip": "Presentacion\\Form2.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:00:39.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\Presentacion\\Form2.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Form2.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\Presentacion\\Form2.cs [Design]",
+              "RelativeToolTip": "Presentacion\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:59:46.626Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\Persistencia\\ProductoDAO.cs",
+              "RelativeDocumentMoniker": "Persistencia\\ProductoDAO.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\Persistencia\\ProductoDAO.cs",
+              "RelativeToolTip": "Persistencia\\ProductoDAO.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwBoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:57:37.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\Presentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\Presentacion\\Form1.cs",
+              "RelativeToolTip": "Presentacion\\Form1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:14:00.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\Presentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\Presentacion\\Form1.cs [Design]",
+              "RelativeToolTip": "Presentacion\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:51:08.137Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\Persistencia\\Conexion.cs",
+              "RelativeDocumentMoniker": "Persistencia\\Conexion.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\Persistencia\\Conexion.cs",
+              "RelativeToolTip": "Persistencia\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:56:39.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\Negocios\\Producto.cs",
+              "RelativeDocumentMoniker": "Negocios\\Producto.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\Negocios\\Producto.cs",
+              "RelativeToolTip": "Negocios\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:14:10.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\Presentacion\\Program.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\charl\\dev\\uabc\\1137381\\Practica13\\Presentacion\\Program.cs",
+              "RelativeToolTip": "Presentacion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:05:00.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\charl\dev\uabc\1137381\PokedexV2\obj\Debug\PokedexV2.csproj.AssemblyReference.cache
+C:\Users\charl\dev\uabc\1137381\PokedexV2\obj\Debug\PokedexV2.Form1.resources
+C:\Users\charl\dev\uabc\1137381\PokedexV2\obj\Debug\PokedexV2.PokeVista.resources
+C:\Users\charl\dev\uabc\1137381\PokedexV2\obj\Debug\PokedexV2.Properties.Resources.resources
+C:\Users\charl\dev\uabc\1137381\PokedexV2\obj\Debug\PokedexV2.csproj.GenerateResource.cache
+C:\Users\charl\dev\uabc\1137381\PokedexV2\obj\Debug\PokedexV2.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\uabc\1137381\PokedexV2\bin\Debug\PokedexV2.exe.config
+C:\Users\charl\dev\uabc\1137381\PokedexV2\bin\Debug\PokedexV2.exe
+C:\Users\charl\dev\uabc\1137381\PokedexV2\bin\Debug\PokedexV2.pdb
+C:\Users\charl\dev\uabc\1137381\PokedexV2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\charl\dev\uabc\1137381\PokedexV2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\charl\dev\uabc\1137381\PokedexV2\obj\Debug\PokedexV2.csproj.Up2Date
+C:\Users\charl\dev\uabc\1137381\PokedexV2\obj\Debug\PokedexV2.exe
+C:\Users\charl\dev\uabc\1137381\PokedexV2\obj\Debug\PokedexV2.pdb
